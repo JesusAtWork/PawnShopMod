@@ -1,0 +1,5 @@
+<meta>
+	<info author="marcelo" name="Pawn shop" description="" type="script" version="2.0.0" />
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" />
+</meta>
